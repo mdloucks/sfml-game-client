@@ -26,4 +26,3 @@ execute using this
 
 export LD_LIBRARY_PATH=(path to sfml/lib) && ./TheProgrammersCode
 
-To make this an even awesomer game, I could use some help with artwork, programming, and sound. send me an email at loucks12345@gmail.com if you're interested in joining!
